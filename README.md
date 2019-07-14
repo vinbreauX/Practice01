@@ -1,2 +1,3 @@
-# Practice01
-Practicing Github
+Testing features
+
+Getting Git
