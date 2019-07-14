@@ -1,2 +1,5 @@
-# Practice01
-Practicing Github
+![headshot](ashley.jpg)
+
+Testing features
+
+Getting Git
